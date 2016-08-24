@@ -4,9 +4,9 @@ return {
 	cmd = '^[/!#]',
 	db = 2, --default redis db: 0
 	admin = {
-		owner = 23646077,
+		owner = 95205943,
 		admins = {
-			[141956218] = true
+			[] = true
 		}
 	},
 	log_chat = -1001057801239,
